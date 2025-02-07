@@ -82,4 +82,3 @@ You can choose one of three power-saving options under each app and allow the ap
     <figcaption>Choices for the Power saver modes.</figcaption>
   </figure>
 
-</div>
